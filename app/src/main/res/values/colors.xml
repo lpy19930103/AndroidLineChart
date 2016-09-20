@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="common_text_gray">#999999</color>
+    <color name="common_top_bg">#AE9459</color>
+    <color name="common_tab_btn">#C6AD64</color>
+    <color name="common_char_line">#e5d7b0</color>
+    <color name="common_line_chartview_scal">#bababa</color>
+    <color name="common_point_line">#ECECEC</color>
+</resources>
